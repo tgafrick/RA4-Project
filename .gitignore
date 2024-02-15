@@ -1,1 +1,3 @@
 *.nrrd
+venv/
+lightning_logs/
