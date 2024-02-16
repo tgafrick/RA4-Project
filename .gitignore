@@ -1,3 +1,5 @@
 *.nrrd
 venv/
 lightning_logs/
+runs/
+logs/
