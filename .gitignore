@@ -3,3 +3,7 @@ venv/
 lightning_logs/
 runs/
 logs/
+archive_logs/
+images/visualizations
+imports.py
+test_cleaner.ipynb
